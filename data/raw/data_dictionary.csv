@@ -1,0 +1,8 @@
+0,1,2,3
+customers_raw.csv,customer_id,Unique customer identifier,Key
+products_raw.csv,product_id,Unique product identifier,Key
+orders_raw.csv,order_id,Unique order identifier,Key
+orders_raw.csv,revenue,Net order revenue after discount,Measure
+orders_raw.csv,profit,Revenue minus estimated cost and shipping,Measure
+marketing_raw.csv,roas,Revenue generated divided by campaign spend,KPI
+inventory_raw.csv,closing_stock,"Stock remaining after receipts, sales and damage",Measure

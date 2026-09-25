@@ -1,0 +1,7 @@
+﻿Issues,Frequency,Buisness Impact,Treatment
+Missing Customer ID,150,customer analysis,Flag/exclude
+Negative Quantity,150,sales KPI,investigate
+Duplicate Order ID,0,Revenue Inflation,Validate
+Missing Rating,300,Rating KPI,Keep Null
+Invalid Stock(products),300,Products KPI,Recalculate
+invalid stock(inventory),250,Inventory KPI,Recalculate
