@@ -903,11 +903,11 @@ The completed project will demonstrate the ability to:
 | Business Requirements     | ✅ Completed    |
 | Raw Dataset Creation      | ✅ Completed    |
 | Intentional Data Issues   | ✅ Completed    |
-| Data Profiling            | 🔄 In Progress |
-| Data Quality Assessment   | 🔄 In Progress |
-| Data Cleaning             | ⏳ Next         |
-| Data Validation           | ⏳ Pending      |
-| Exploratory Data Analysis | ⏳ Pending      |
+| Data Profiling            | ✅ Complete     |
+| Data Quality Assessment   | ✅ Complete     |
+| Data Cleaning             | ✅ Complete     |
+| Data Validation           | ✅ Complete     |
+| Exploratory Data Analysis | ✅ Complete     |
 | SQL Analytics             | ⏳ Pending      |
 | Power BI Dashboard        | ⏳ Pending      |
 | AI Insight Layer          | ⏳ Pending      |
