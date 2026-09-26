@@ -1,0 +1,6 @@
+Dataset,Rows,Missing,Duplicates,Invalid Values,Key Issues
+Customers,"50,000",600,0,120,Leading/trailing whitespace
+Products,"50,000",300,0,200,Negative cost price (<= 0)
+Orders,"50,000",450,0,150,Negative quantity (<= 0)
+Marketing,"50,000",400,0,,
+Inventory,"50,000",250,0,200,Negative units sold (< 0)
